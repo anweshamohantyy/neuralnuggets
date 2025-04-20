@@ -1,4 +1,4 @@
 # neuralnuggets
 
 ## Overview
-Emotion Classification Of Audio Recordings
+Emotion Classification of Audio Recordings
